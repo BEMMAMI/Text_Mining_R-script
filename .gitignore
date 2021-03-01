@@ -1,0 +1,7 @@
+/.idea
+*.log
+*.bak
+*.auth
+*.code-workspace
+corpus/*
+!corpus/.keep
